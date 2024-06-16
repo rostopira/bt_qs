@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="off">Off</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">Connected</string>
+</resources>
